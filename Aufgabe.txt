@@ -1,0 +1,9 @@
+In index.js findest du ein restaurant-Objekt, das einen Namen, eine Adresse, eine Stadt, einen Bundesstaat und eine Postleitzahl enthält.
+
+Deine Aufgabe ist es, eine Variable namens fullAddress zu erstellen, die auf einen String zeigt, der die Informationen aus dem restaurant-Objekt verwendet.
+
+fullAddress sollte auf einen String zeigen, der die Adresse, die Stadt, den Bundesstaat und die Postleitzahl aus dem restaurant-Objekt enthält.
+Achte darauf, alle notwendigen Kommas oder Leerzeichen zwischen den Werten hinzuzufügen, um das genaue erwartete Ausgabeformat zu erreichen, wie im folgenden Beispiel gezeigt.
+
+Beispiel:
+    "64 Johnson Ave, Brooklyn, NY 11206" // Dies ist das erwartete Ausgabeformat der fullAddress-Zeichenkette (achte auf die Kommas und/oder Leerzeichen zwischen den Werten und passe das ebenfalls an!)
